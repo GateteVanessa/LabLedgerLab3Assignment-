@@ -70,6 +70,7 @@ These screenshots show the application workflow, from sign-in through inventory 
 | Borrow confirmation | ![Equipment borrowed successfully](docs/screenshots/borrow-confirmation.png) |
 | Updated stock and delete confirmation | ![Updated available stock and delete prompt](docs/screenshots/updated-stock-and-delete.png) |
 | Statistics | ![Inventory statistics](docs/screenshots/statistics.png) |
+| MariaDB database in phpMyAdmin | ![LabLedger database tables in phpMyAdmin](docs/screenshots/database-phpmyadmin.png) |
 | Logout confirmation | ![Logout confirmation prompt](docs/screenshots/logout-confirmation.png) |
 
 ## Project layout
